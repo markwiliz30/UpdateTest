@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Manifest version="1">
   <CheckInterval>900</CheckInterval>
-  <RemoteConfigUri>http://www.codeproject.com/script/Membership/Uploads/1740717/update.xml</RemoteConfigUri>
+  <RemoteConfigUri>https://github.com/markwiliz30/UpdateTest/blob/master/update.xml</RemoteConfigUri>
   <SecurityToken>D68E6969-E787-4CC4-B020-878BA649B4CD</SecurityToken>
-  <BaseUri>http://www.codeproject.com/script/Membership/Uploads/1740717/</BaseUri>
-  <Payload>RedCell.UI.Controls.Demo-Version2.zip</Payload>
+  <BaseUri>https://github.com/markwiliz30/UpdateTest/archive/</BaseUri>
+  <Payload>master.zip</Payload>
 </Manifest>
